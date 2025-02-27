@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🌐💡 Web Developer | Problem Solver<br>🖥️🌐 Front-End Developer<br>🎨💻 Creating beautiful and interactive web interfaces<br>🔧💡 Building the engine behind web applications<br>🔧💡 Bringing designs to life with HTML, CSS, and JavaScript
 
 
